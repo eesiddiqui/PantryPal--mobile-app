@@ -1,0 +1,60 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Rising Steam (3 lines) -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:pathData="M47,24c-1.5,-4 1.5,-8 0,-12" />
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:pathData="M54,22c-1.5,-4 1.5,-8 0,-12" />
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:pathData="M61,24c-1.5,-4 1.5,-8 0,-12" />
+
+    <!-- Lid Handle -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="3"
+        android:strokeLineCap="round"
+        android:pathData="M48,36c0,-4 12,-4 12,0" />
+
+    <!-- Pot Lid -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M34,36h40c2,0 3,1.5 3,3c0,1 -1,2 -3,2h-40c-2,0 -3,-1 -3,-2c0,-1.5 1,-3 3,-3z" />
+
+    <!-- Pot Body -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M32,45h44v15c0,7 -6,13 -13,13h-18c-7,0 -13,-6 -13,-13z" />
+
+    <!-- Left Pot Handle -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="3"
+        android:strokeLineCap="round"
+        android:pathData="M32,49c-5,0 -5,8 0,8" />
+
+    <!-- Right Pot Handle -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="3"
+        android:strokeLineCap="round"
+        android:pathData="M76,49c5,0 5,8 0,8" />
+
+    <!-- Heart Cutout (Representing PantryPal Love/Favorites) -->
+    <path
+        android:fillColor="#E07C5A"
+        android:pathData="M54,61c0,0 -4.5,-3.5 -4.5,-6c0,-1.5 1,-2.5 2.5,-2.5c0.9,0 1.6,0.5 2,1.2c0.4,-0.7 1.1,-1.2 2,-1.2c1.5,0 2.5,1 2.5,2.5c0,2.5 -4.5,6 -4.5,6z" />
+
+</vector>

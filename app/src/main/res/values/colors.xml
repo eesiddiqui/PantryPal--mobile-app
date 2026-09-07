@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Palette – Sage Green -->
+    <color name="primary">#5A8A6E</color>
+    <color name="primary_dark">#3D6B54</color>
+    <color name="primary_light">#A8C9B7</color>
+    <color name="primary_extra_light">#E8F4EE</color>
+
+    <!-- Accent – Warm Coral/Orange -->
+    <color name="accent">#E07C5A</color>
+    <color name="accent_light">#F5C1AE</color>
+    <color name="accent_extra_light">#FDF0EB</color>
+
+    <!-- Backgrounds -->
+    <color name="background">#F7F5F2</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="surface_variant">#F0EDE8</color>
+
+    <!-- Text Colors -->
+    <color name="text_primary">#2C3A2E</color>
+    <color name="text_secondary">#6B7C71</color>
+    <color name="text_hint">#A8B5AE</color>
+    <color name="text_on_primary">#FFFFFF</color>
+
+    <!-- Dividers & Borders -->
+    <color name="divider">#E4E0DA</color>
+    <color name="border">#D4CFC8</color>
+
+    <!-- Status Colors -->
+    <color name="success">#4CAF50</color>
+    <color name="error">#E57373</color>
+    <color name="warning">#FFB74D</color>
+
+    <!-- Card Shadows -->
+    <color name="card_shadow">#1A000000</color>
+
+    <!-- Weather Colors -->
+    <color name="weather_sunny">#FFD54F</color>
+    <color name="weather_cloudy">#B0BEC5</color>
+    <color name="weather_rainy">#64B5F6</color>
+    <color name="weather_snowy">#E3F2FD</color>
+
+    <!-- Nutrition Tag Colors -->
+    <color name="tag_protein">#7E57C2</color>
+    <color name="tag_carbs">#26A69A</color>
+    <color name="tag_fat">#EF7C4E</color>
+    <color name="tag_calories">#42A5F5</color>
+</resources>

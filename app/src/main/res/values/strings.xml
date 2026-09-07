@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PantryPal</string>
+    <string name="app_tagline">Your smart kitchen companion</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_search">Search</string>
+    <string name="nav_favorites">Favorites</string>
+    <string name="nav_nutrition">Nutrition</string>
+    <string name="nav_meal_planner">Meal Planner</string>
+
+    <!-- Home Screen -->
+    <string name="good_morning">Good Morning!</string>
+    <string name="good_afternoon">Good Afternoon!</string>
+    <string name="good_evening">Good Evening!</string>
+    <string name="weather_recommendation">Today\'s Recommendations</string>
+    <string name="weather_loading">Fetching weather data…</string>
+    <string name="search_hint">Search recipes, ingredients…</string>
+    <string name="quick_actions">Quick Actions</string>
+
+    <!-- Search -->
+    <string name="search_title">Find Recipes</string>
+    <string name="search_placeholder">Try "chicken pasta" or "soup"</string>
+    <string name="search_results">Search Results</string>
+    <string name="no_results">No recipes found. Try a different keyword.</string>
+    <string name="searching">Searching…</string>
+
+    <!-- Recipe Details -->
+    <string name="ingredients">Ingredients</string>
+    <string name="instructions">Instructions</string>
+    <string name="add_to_favorites">Save to Favorites</string>
+    <string name="remove_from_favorites">Remove from Favorites</string>
+    <string name="add_to_meal_plan">Add to Meal Plan</string>
+    <string name="category_label">Category</string>
+    <string name="area_label">Cuisine</string>
+    <string name="watch_video">Watch Video</string>
+
+    <!-- Favorites -->
+    <string name="favorites_title">My Favorites</string>
+    <string name="no_favorites">No favorites yet.\nSearch for recipes and save them here!</string>
+    <string name="favorite_added">Added to favorites!</string>
+    <string name="favorite_removed">Removed from favorites.</string>
+
+    <!-- Nutrition -->
+    <string name="nutrition_title">Nutrition Goals</string>
+    <string name="daily_calories">Daily Calories (kcal)</string>
+    <string name="protein_goal">Protein (g)</string>
+    <string name="carbs_goal">Carbohydrates (g)</string>
+    <string name="fat_goal">Fat (g)</string>
+    <string name="save_goals">Save Goals</string>
+    <string name="goals_saved">Goals saved successfully!</string>
+    <string name="recommended_for_you">Recommended For You</string>
+    <string name="nutrition_subtitle">Set your daily goals and get personalized recipe recommendations</string>
+
+    <!-- Meal Planner -->
+    <string name="meal_planner_title">Weekly Meal Plan</string>
+    <string name="meal_planner_subtitle">Plan your meals for the week</string>
+    <string name="add_meal">+ Add Meal</string>
+    <string name="clear_meal">Clear</string>
+    <string name="meal_saved">Meal plan saved!</string>
+    <string name="no_meal_planned">Tap to add a recipe</string>
+    <string name="save_plan">Save Plan</string>
+    <string name="pick_recipe_title">Pick a Recipe</string>
+
+    <!-- Days of Week -->
+    <string name="monday">Monday</string>
+    <string name="tuesday">Tuesday</string>
+    <string name="wednesday">Wednesday</string>
+    <string name="thursday">Thursday</string>
+    <string name="friday">Friday</string>
+    <string name="saturday">Saturday</string>
+    <string name="sunday">Sunday</string>
+
+    <!-- General -->
+    <string name="loading">Loading…</string>
+    <string name="error_loading">Failed to load. Check your connection.</string>
+    <string name="retry">Retry</string>
+    <string name="back">Back</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+</resources>
